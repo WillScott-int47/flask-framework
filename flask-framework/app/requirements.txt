@@ -1,0 +1,11 @@
+pandas==1.1.2
+simplejson==3.17.2
+gunicorn==20.0.4
+requests==2.24.0
+
+datetime
+bokeh==2.2.1
+pip
+
+flask==1.1.2
+Jinja2==2.11.2
